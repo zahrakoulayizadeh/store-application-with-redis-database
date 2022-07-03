@@ -1,10 +1,10 @@
-# windows-application-with-redis-database
-Provide Key-Value data model and implement the windows application with python and redis database
+# store-application-with-redis-database
+Provided key-value data model and implemented a store application with python and redis database.
 
 
 ## Info
-This program is implemented using Python programming language and Json file format and Redis is used as a database.
-This program is a Windows application that was created with the help of PySimpleGUI library in Python.
+This program is implemented using Python programming language. JSON file format and Redis is used as a database.
+This program is a store application that was created with the help of PySimpleGUI library in Python.
 
 
 ## Usage
